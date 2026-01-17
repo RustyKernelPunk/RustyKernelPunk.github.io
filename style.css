@@ -1,0 +1,14 @@
+body {
+  font-family: monospace;
+  background: #1e1e1e;
+  color: #00ff00;
+  margin: 0;
+  padding: 0;
+  line-height: 1.0;
+}
+
+a {
+  color: #0ff;
+  text-decoration: none;
+}
+
